@@ -1,0 +1,6 @@
+The animate.css project is a open source project that covers animation
+in CSS. This covers animations from things like water animations to 
+transition animations such as Fade In and Fade out. It also has other
+animations such as zooms, rotates, sliding and many others. These can also
+be used in javascript. It is also possible to change the speed of the animations
+with a class.
